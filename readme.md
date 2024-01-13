@@ -28,6 +28,7 @@ This project focuses on implementing and analyzing Feedforward Neural Networks (
 
 The code was written in Python, and key libraries used include:
 
-- numpy
-- matplotlib
-- sklearn
+- PyTorch
+- Numpy
+- Matplotlib
+- Sklearn
